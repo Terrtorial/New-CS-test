@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root {
+		font-family: 'Inter', sans-serif;
+		--background: 0 0% 100%;
+		--foreground: 20 14.3% 4.1%;
+		--border: 20 5.9% 90%;
+	}
+}
